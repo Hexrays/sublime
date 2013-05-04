@@ -1,0 +1,25 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"CoffeeScript",
+		"Emmet",
+		"HTML2Haml",
+		"jQuery",
+		"jQuery Snippets pack",
+		"LESS",
+		"Less2Css",
+		"LiveReload",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"PlainTasks",
+		"Prefixr",
+		"Ruby on Rails snippets",
+		"Sass",
+		"Shell Turtlestein",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"ZenCoding"
+	]
+}
